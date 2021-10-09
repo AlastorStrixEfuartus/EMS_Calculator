@@ -1,0 +1,12 @@
+C:\Users\AlixV2.0\source\repos\EMS_Calculator\EMS_Calculator\bin\Release\EMS_Calculator.exe.config
+C:\Users\AlixV2.0\source\repos\EMS_Calculator\EMS_Calculator\bin\Release\EMS_Calculator.exe
+C:\Users\AlixV2.0\source\repos\EMS_Calculator\EMS_Calculator\bin\Release\EMS_Calculator.pdb
+C:\Users\AlixV2.0\source\repos\EMS_Calculator\EMS_Calculator\bin\Release\EMS_Calculator.xml
+C:\Users\AlixV2.0\source\repos\EMS_Calculator\EMS_Calculator\obj\Release\EMS_Calculator.EMSCalculator.resources
+C:\Users\AlixV2.0\source\repos\EMS_Calculator\EMS_Calculator\obj\Release\EMS_Calculator.Resources.resources
+C:\Users\AlixV2.0\source\repos\EMS_Calculator\EMS_Calculator\obj\Release\EMS_Calculator.vbproj.GenerateResource.cache
+C:\Users\AlixV2.0\source\repos\EMS_Calculator\EMS_Calculator\obj\Release\EMS_Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\AlixV2.0\source\repos\EMS_Calculator\EMS_Calculator\obj\Release\EMS_Calculator.exe
+C:\Users\AlixV2.0\source\repos\EMS_Calculator\EMS_Calculator\obj\Release\EMS_Calculator.xml
+C:\Users\AlixV2.0\source\repos\EMS_Calculator\EMS_Calculator\obj\Release\EMS_Calculator.pdb
+C:\Users\AlixV2.0\source\repos\EMS_Calculator\EMS_Calculator\obj\Release\EMS_Calculator.vbproj.AssemblyReference.cache
